@@ -1,0 +1,45 @@
+
+#contenedor {
+    height: 800px;
+    width: 1000px;
+    background-color: gray;
+    margin: 30px auto;
+}
+
+#amarillo {
+    width: 980px;
+    height: 80px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+
+#azul {
+width: 680px;
+height: 400px;
+background-color: blue;
+margin-left: 10px;
+float: left;
+}
+#rojo {
+    width: 290px;
+    height: 500px;
+    background-color: red;
+    margin-right: 10px;
+    float: right;
+}
+#negro {
+    width: 980px;
+    height: 180px;
+    background-color: black;
+    margin-right: 10px;
+    clear: both;
+}
+
+/*
+
+
+.
+Y por último nuestro div negro como footer o pie con unas dimensiones de 980px de
+ancho y 180px de alto, con un margen izquierdo de 10px y asignándole la propiedad de
+estilo clear:both.
+*/
