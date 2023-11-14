@@ -1,0 +1,11 @@
+#parrafo1 { text-indent: 1cm;
+}
+#parrafo2 {text-align: center;
+}
+h2 {text-decoration: underline;}
+h3 {text-decoration: overline;}
+h4 {text-decoration: line-through;}
+#parrafo3 {text-decoration: none;}
+h5 {text-transform: capitalize;}
+h6 {text-transform: uppercase;}
+#parrafo4 {text-transform: lowercase;}

@@ -1,0 +1,21 @@
+p{ 
+background-color: crimson;
+color:wheat;
+font-size: 18px;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+letter-spacing: 4ch;
+line-height: 20px;
+}
+
+#segundo {
+    background-color: black;
+    color: white;
+    border: yellow;
+    border-radius: 3px;
+}
+
+IMG{
+    border: 3px darkblue solid;
+    border-radius: 30px 10px 2PX;
+    background-color: aqua;
+}
