@@ -1,0 +1,12 @@
+#capa1 {
+    border: 3px solid red;
+  border-radius: 5px;
+    
+}
+#capa2 { border-right: 3px solid salmon; 
+    border-left: 3px dashed crimson;
+    border-top:  3px inset aqua;
+    border-bottom: 3px dotted pink; 
+}
+#capa3 {border: 3px dotted black;}
+#capa4 {border: 10px double red;}
